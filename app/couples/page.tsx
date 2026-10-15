@@ -6,11 +6,35 @@ import HowBookingWorksSection from "@/components/HowBookingWorksSection";
 import IndividualFAQSection from "@/components/IndividualFAQSection";
 
 export const metadata: Metadata = {
-  title: "Couples Recovery & Intimacy Program | AxoMen",
+  title: "Online Sex & Intimacy Counselling for Couples in India | AxoMen",
   description:
-    "Confidential guidance for couples affected by compulsive sexual habits and porn use. Rebuild emotional intimacy, trust, and mutual understanding.",
+    "Confidential online sex and intimacy counselling for couples navigating sexual problems, broken trust, and porn habits. Rebuild mutual connection. First session free.",
+  keywords: [
+    "Online Sex Counselling",
+    "online sex counselling India",
+    "sex and intimacy therapy alternative",
+    "online intimacy counselling India",
+    "couples sexual problem guidance",
+    "rebuilding trust after porn",
+    "couples sex recovery program India",
+  ],
   alternates: {
     canonical: "https://axomen.com/couples",
+  },
+  openGraph: {
+    title: "Online Sex & Intimacy Counselling for Couples | AxoMen",
+    description:
+      "Confidential online guidance for couples affected by sexual challenges and compulsive habits. Rebuild trust and intimacy. Book first session free.",
+    url: "https://axomen.com/couples",
+    type: "website",
+    images: [
+      {
+        url: "/image/axomen-logo.png",
+        width: 1200,
+        height: 630,
+        alt: "AxoMen Online Sex & Intimacy Counselling for Couples",
+      },
+    ],
   },
 };
 

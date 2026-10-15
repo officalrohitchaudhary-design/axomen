@@ -56,10 +56,7 @@ export default function Footer() {
               className="mt-4 text-[#292D32] leading-[1.62] font-normal max-w-lg"
               style={{ fontSize: "14px" }}
             >
-              AxoMen is India&apos;s dedicated men&apos;s sexual health platform.
-              We provide practical, confidential, and human-guided recovery education
-              for men struggling with unwanted porn use, compulsive masturbation habits,
-              and sexual urges. Trusted by 1,000+ men across India.
+              AxoMen is India&apos;s dedicated men&apos;s sexual health platform offering confidential masturbation addiction treatment in India, practical recovery education, and human-guided support for unwanted porn use and compulsive sexual urges. Trusted by 1,000+ men across India.
             </p>
 
             {/* Social Icons - Container divs prepared for user manual SVG paste */}

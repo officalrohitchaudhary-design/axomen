@@ -23,7 +23,7 @@ export default function FindTreatmentSection() {
       label: isHindi ? "आदत नियंत्रण व ऊर्जा बहाली" : "Habit Reset & Energy Restoration",
       href: "/session",
       image: "/image/issue-2.jpg",
-      alt: "Masturbation Addiction Treatment",
+      alt: "Masturbation Addiction Treatment in India",
     },
     {
       id: "both-addiction",

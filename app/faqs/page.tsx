@@ -4,8 +4,15 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Frequently Asked Questions — Men's Sexual Health & Recovery | AxoMen",
   description:
-    "Get clear, expert answers on men's sexual health, how to stop watching porn, compulsive masturbation habits, urge surfing, and confidential 1-on-1 sessions at AxoMen.",
+    "Get clear, expert answers on men's sexual health, how to stop masturbation addiction, online porn counselling, and urge surfing. Book your first session free at AxoMen.",
   keywords: [
+    "How to Stop Masturbation Addiction",
+    "Online Masturbation Counselling",
+    "Online Porn Counselling",
+    "Online Sex Counselling",
+    "online sex counselling India",
+    "Masturbation Addiction Treatment in India",
+    "masturbation addiction treatment",
     "AxoMen FAQs",
     "men's sexual health questions India",
     "how to stop porn questions",
@@ -59,6 +66,10 @@ const FAQ_SECTIONS = [
   {
     category: "Porn & Masturbation Habit Concerns",
     items: [
+      {
+        q: "Where can I find masturbation addiction treatment in India?",
+        a: "AxoMen provides India's premier online, confidential masturbation addiction treatment and habit recovery platform. Through private 1-on-1 human-guided sessions, men across India learn evidence-based urge-control techniques, dopamine rebalancing, and practical behavioural tools to overcome compulsive habits.",
+      },
       {
         q: "How do I know if my porn use has become compulsive?",
         a: "Key signs include spending excessive hours browsing multiple tabs, escalating to extreme categories to feel aroused, continuing despite feeling guilty, experiencing brain fog or poor academic/work performance, or having difficulty staying aroused with real partners.",

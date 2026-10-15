@@ -22,7 +22,6 @@ const anton = Anton({
 const syne = Syne({
   variable: "--font-syne",
   subsets: ["latin"],
-  weight: ["700", "800"],
   display: "swap",
 });
 
@@ -62,7 +61,12 @@ const SCHEMA_ORG = {
         "Men's Sexual Health",
         "Compulsive Sexual Behavior",
         "Pornography Habit Recovery",
+        "Masturbation Addiction Treatment in India",
         "Masturbation Habit Support",
+        "How to Stop Masturbation Addiction",
+        "Online Masturbation Counselling",
+        "Online Porn Counselling",
+        "Online Sex Counselling",
         "Urge Surfing & Impulse Control",
         "Dopamine Desensitization & Brain Rewiring",
       ],
@@ -98,7 +102,7 @@ const SCHEMA_ORG = {
         },
         {
           "@type": "MedicalCondition",
-          name: "Compulsive Masturbation Habits",
+          name: "Compulsive Masturbation Habits & Masturbation Addiction",
         },
       ],
       audience: {
@@ -120,7 +124,7 @@ export const metadata: Metadata = {
     template: "%s | AxoMen — Men's Sexual Health",
   },
   description:
-    "AxoMen is India's men's sexual health platform offering confidential, human-guided support for unwanted porn use, masturbation habits, and sexual urges. Trusted by 1,000+ men.",
+    "AxoMen is India's dedicated men's sexual health platform offering confidential masturbation addiction treatment in India, online sex & porn counselling, and habit recovery. First session free.",
   keywords: [
     // ── Brand Keywords ──────────────────────────────────────────
     "AxoMen",
@@ -130,8 +134,11 @@ export const metadata: Metadata = {
     "AxoMen recovery session",
     "AxoMen consultation",
 
-    // ── Men's Sexual Health Keywords ────────────────────────────
+    // ── Men's Sexual Health & Counselling Keywords ──────────────
     "men's sexual health India",
+    "Online Sex Counselling",
+    "online sex counselling India",
+    "online sex counselling male sexual problem",
     "men's sexual health support",
     "online men's sexual health consultation",
     "men's sexual wellbeing",
@@ -140,7 +147,9 @@ export const metadata: Metadata = {
     "confidential men's sexual health platform",
     "men sexual health coach India",
 
-    // ── Porn-Related Support Keywords ───────────────────────────
+    // ── Porn-Related Support & Counselling Keywords ─────────────
+    "Online Porn Counselling",
+    "online porn counselling India",
     "how to quit porn",
     "help with porn habits",
     "how to stop watching porn",
@@ -153,7 +162,15 @@ export const metadata: Metadata = {
     "porn dopamine detox",
     "rewire brain after porn",
 
-    // ── Masturbation-Related Support Keywords ───────────────────
+    // ── Masturbation-Related Support & Counselling Keywords ─────
+    "How to Stop Masturbation Addiction",
+    "how to stop masturbation addiction",
+    "Online Masturbation Counselling",
+    "online masturbation counselling India",
+    "Masturbation Addiction Treatment in India",
+    "masturbation addiction treatment in India",
+    "masturbation addiction treatment",
+    "masturbation addiction help India",
     "help with unwanted masturbation habits",
     "how to manage masturbation habits",
     "difficulty controlling masturbation",
@@ -191,7 +208,7 @@ export const metadata: Metadata = {
     siteName: "AxoMen",
     title: "AxoMen - Men's Sexual Health Platform | Trusted by 1K+ Men",
     description:
-      "Confidential, human-guided support for men struggling with unwanted porn use, compulsive masturbation habits, and sexual urges. Trusted by 1,000+ men across India.",
+      "Confidential masturbation addiction treatment in India and human-guided support for men struggling with unwanted porn use, compulsive masturbation habits, and sexual urges. Trusted by 1,000+ men across India.",
     images: [
       {
         url: "/image/axomen-logo.png",

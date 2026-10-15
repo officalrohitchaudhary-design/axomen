@@ -2,10 +2,17 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Combined Porn & Masturbation Recovery Support | AxoMen India",
+  title: "Online Porn & Masturbation Counselling | Dual Habit Recovery — AxoMen",
   description:
-    "Confidential, human-guided recovery support for men trapped in the dual porn and masturbation habit cycle. Practical urge surfing, neurobiology, and 1-on-1 sessions.",
+    "Break free from dual porn and masturbation cycles with online counselling in India. Learn how to stop masturbation addiction and porn habits. First session free.",
   keywords: [
+    "How to Stop Masturbation Addiction",
+    "Online Masturbation Counselling",
+    "Online Porn Counselling",
+    "Online Sex Counselling",
+    "online sex counselling India",
+    "Masturbation Addiction Treatment in India",
+    "masturbation addiction treatment",
     "help with porn and masturbation habits",
     "how to manage sexual urges",
     "how to manage lustful thoughts",
@@ -25,9 +32,9 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Combined Porn & Masturbation Recovery Support | AxoMen",
+    title: "Online Porn & Masturbation Counselling | Dual Habit Recovery | AxoMen",
     description:
-      "Break free from the dual porn and masturbation loop with structured 1-on-1 human guidance. 100% confidential men's sexual health support.",
+      "Confidential online porn and masturbation counselling in India. Reclaim your focus, energy, and sexual vitality. First session free.",
     url: "https://axomen.com/services/porn-and-masturbation-support",
     type: "website",
     images: [
@@ -35,7 +42,7 @@ export const metadata: Metadata = {
         url: "/image/axomen-logo.png",
         width: 1200,
         height: 630,
-        alt: "AxoMen Combined Recovery Support",
+        alt: "AxoMen Online Porn & Masturbation Counselling",
       },
     ],
   },

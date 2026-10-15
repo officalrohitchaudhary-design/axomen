@@ -3,10 +3,13 @@ import Link from "next/link";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Porn Habit Support & Recovery Guidance | AxoMen India",
+  title: "Online Porn Counselling & Habit Recovery Support | AxoMen India",
   description:
-    "Confidential, human-guided support for men struggling with unwanted porn use. Understand dopamine loops, regain focus, and build practical urge-control habits.",
+    "Get confidential online porn counselling and habit recovery in India. Break free from compulsive dopamine loops with 1-on-1 guidance. First session free.",
   keywords: [
+    "Online Porn Counselling",
+    "online porn counselling India",
+    "online porn addiction counselling",
     "how to quit porn",
     "help with porn habits",
     "how to stop watching porn",
@@ -26,9 +29,9 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Porn Habit Support & Recovery Guidance | AxoMen",
+    title: "Online Porn Counselling & Habit Recovery Guidance | AxoMen",
     description:
-      "Confidential 1-on-1 recovery education for men struggling with unwanted porn use. Rewire your habits with non-judgmental guidance.",
+      "Confidential online porn counselling for men struggling with compulsive porn use. Understand dopamine loops and regain control. First session free.",
     url: "https://axomen.com/services/porn-habit-support",
     type: "website",
     images: [
@@ -36,13 +39,17 @@ export const metadata: Metadata = {
         url: "/image/axomen-logo.png",
         width: 1200,
         height: 630,
-        alt: "AxoMen Porn Habit Support",
+        alt: "AxoMen Online Porn Counselling & Habit Support",
       },
     ],
   },
 };
 
 const FAQ_ITEMS = [
+  {
+    q: "How does online porn counselling work at AxoMen?",
+    a: "AxoMen's online porn counselling connects you 1-on-1 with an empathetic recovery educator in a 100% confidential, judgment-free private session. You can keep your camera turned off. Together, you map out your personal dopamine triggers, learn somatic urge surfing, and implement daily friction protocols. First session is free for all men.",
+  },
   {
     q: "Why does willpower alone keep failing after 3 to 7 days?",
     a: "Compulsive digital porn triggers massive surges of dopamine in the brain's reward center. When stress, fatigue, or boredom strike, your brain automatically seeks that dopamine surge. Trying to resist through sheer willpower without addressing the underlying cue-routine-reward loop creates cognitive fatigue and leads to relapse.",
@@ -66,8 +73,8 @@ const SCHEMA_DATA = {
   "@graph": [
     {
       "@type": "Service",
-      name: "Porn Habit Support & Recovery Guidance",
-      serviceType: "Men's Sexual Health Habit Recovery Education",
+      name: "Online Porn Counselling & Habit Recovery Support",
+      serviceType: "Online Porn Addiction Counselling & Men's Sexual Health Education",
       provider: {
         "@type": "MedicalOrganization",
         name: "AxoMen",
@@ -75,7 +82,7 @@ const SCHEMA_DATA = {
       },
       areaServed: "India",
       description:
-        "Personalised, confidential 1-on-1 recovery education and urge management for men seeking to break unwanted porn habits.",
+        "Confidential 1-on-1 online porn counselling and urge management education in India for men seeking to break compulsive porn habits.",
     },
     {
       "@type": "FAQPage",

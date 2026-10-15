@@ -22,7 +22,7 @@ const CONCERNS: ConcernCardData[] = [
     bottomTitle: "Regain Control",
     bottomSubtitle: "Over Sexual Habits",
     imgSrc: "https://qurex-s3.s3.ap-south-1.amazonaws.com/public/wellness/five.png",
-    imgAlt: "Compulsive Masturbation Habit Support",
+    imgAlt: "Masturbation Addiction Treatment in India - AxoMen",
     href: "/services/masturbation-habit-support",
   },
   {

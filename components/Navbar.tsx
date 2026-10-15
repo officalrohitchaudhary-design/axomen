@@ -61,6 +61,24 @@ export default function Navbar() {
       category: "Consultation",
     },
     {
+      title: "Masturbation Addiction Treatment in India",
+      desc: "Confidential 1-on-1 habit recovery support and urge control guidance",
+      href: "/services/masturbation-habit-support",
+      category: "Services",
+    },
+    {
+      title: "Online Porn Counselling",
+      desc: "Confidential 1-on-1 habit recovery support for compulsive porn use",
+      href: "/services/porn-habit-support",
+      category: "Services",
+    },
+    {
+      title: "Online Sex & Intimacy Counselling",
+      desc: "Confidential guidance for couples to restore emotional connection",
+      href: "/couples",
+      category: "Couples",
+    },
+    {
       title: "Addiction Self-Assessment",
       desc: "Evaluate habit patterns and discover your recovery timeline",
       href: "/assessment",

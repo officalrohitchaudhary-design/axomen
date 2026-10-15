@@ -2,10 +2,20 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Masturbation Habit Support & Urge Management | AxoMen India",
+  title: "Masturbation Addiction Treatment in India | Online Counselling — AxoMen",
   description:
-    "Confidential, practical support for men dealing with unwanted or compulsive masturbation habits. Learn science-backed urge control tools and regain sexual vitality.",
+    "Looking for masturbation addiction treatment in India? Learn how to stop masturbation addiction with online masturbation counselling. Get your first confidential 1-on-1 session free.",
   keywords: [
+    "How to Stop Masturbation Addiction",
+    "how to stop masturbation addiction",
+    "Online Masturbation Counselling",
+    "online masturbation counselling India",
+    "Masturbation Addiction Treatment in India",
+    "masturbation addiction treatment in India",
+    "masturbation addiction treatment",
+    "masturbation addiction doctor India",
+    "masturbation addiction help India",
+    "compulsive masturbation recovery India",
     "help with unwanted masturbation habits",
     "how to manage masturbation habits",
     "difficulty controlling masturbation",
@@ -25,9 +35,9 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Masturbation Habit Support & Urge Management | AxoMen",
+    title: "Masturbation Addiction Treatment in India | Online Counselling | AxoMen",
     description:
-      "Confidential support for men facing compulsive masturbation habits and sexual urges. Rebuild self-discipline and vitality with human-guided guidance.",
+      "Learn how to stop masturbation addiction with confidential online masturbation counselling in India. Rebuild self-discipline and vitality. First session free.",
     url: "https://axomen.com/services/masturbation-habit-support",
     type: "website",
     images: [
@@ -35,13 +45,21 @@ export const metadata: Metadata = {
         url: "/image/axomen-logo.png",
         width: 1200,
         height: 630,
-        alt: "AxoMen Masturbation Habit Support",
+        alt: "AxoMen Masturbation Addiction Treatment & Habit Support in India",
       },
     ],
   },
 };
 
 const FAQ_ITEMS = [
+  {
+    q: "How to stop masturbation addiction through online counselling?",
+    a: "Stopping compulsive masturbation requires addressing the neurological cue-routine-reward loop rather than relying solely on willpower. Through AxoMen's online masturbation counselling, you work 1-on-1 with an empathetic educator to identify personal stress and boredom triggers, install somatic urge surfing techniques, and build lasting self-control. Your first session is completely free.",
+  },
+  {
+    q: "Does AxoMen offer masturbation addiction treatment in India?",
+    a: "Yes. AxoMen provides specialized, confidential masturbation addiction treatment and habit recovery guidance across India. Through structured 1-on-1 private sessions, our educators help men address the psychological and dopamine cues behind compulsive masturbation, install practical urge-surfing protocols, and build lasting self-mastery without moral shame.",
+  },
   {
     q: "Is masturbation inherently bad or harmful?",
     a: "No. Masturbation is a natural biological function. However, when it becomes compulsive—used repeatedly as an automatic coping mechanism for stress, boredom, or negative emotions, or occurring multiple times daily accompanied by fatigue and loss of focus—it can negatively impact a man's vitality, relationships, and self-confidence.",
@@ -65,8 +83,8 @@ const SCHEMA_DATA = {
   "@graph": [
     {
       "@type": "Service",
-      name: "Masturbation Habit Support & Urge Management",
-      serviceType: "Men's Sexual Health Habit Recovery Education",
+      name: "Masturbation Addiction Treatment in India & Habit Support",
+      serviceType: "Masturbation Addiction Treatment & Men's Sexual Health Habit Recovery Education",
       provider: {
         "@type": "MedicalOrganization",
         name: "AxoMen",
@@ -74,7 +92,7 @@ const SCHEMA_DATA = {
       },
       areaServed: "India",
       description:
-        "Structured, confidential recovery education for men dealing with unwanted, excessive, or compulsive masturbation habits.",
+        "Structured, confidential masturbation addiction treatment and habit recovery guidance in India for men dealing with unwanted, excessive, or compulsive masturbation habits.",
     },
     {
       "@type": "FAQPage",
@@ -115,14 +133,14 @@ export default function MasturbationHabitSupportPage() {
                 </li>
                 <li>/</li>
                 <li className="text-white font-medium" aria-current="page">
-                  Masturbation Habit Support
+                  Masturbation Addiction Treatment in India
                 </li>
               </ol>
             </nav>
 
             {/* Category Eyebrow */}
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 text-[#e9e315] text-xs font-bold uppercase tracking-wider mb-4 border border-white/15">
-              <span>Men's Sexual Health Specialisation</span>
+              <span>Masturbation Addiction Treatment in India</span>
               <span>•</span>
               <span>Trusted by 1K+ Men</span>
             </div>
@@ -132,12 +150,12 @@ export default function MasturbationHabitSupportPage() {
               className="text-3xl sm:text-4xl md:text-5xl lg:text-[46px] font-bold tracking-tight leading-[1.18] text-white max-w-3xl mb-6"
               style={{ fontFamily: "var(--font-plus-jakarta), sans-serif" }}
             >
-              Support for Unwanted Masturbation Habits &amp; Urge Control
+              Masturbation Addiction Treatment &amp; Habit Recovery Support in India
             </h1>
 
             {/* Subtitle */}
             <p className="text-white/80 text-base sm:text-lg md:text-xl leading-relaxed max-w-2xl mb-8 font-normal">
-              When masturbation turns from an occasional release into an automatic, compulsive reaction to stress, loneliness, or boredom, it can drain your physical vitality and mental peace. AxoMen offers structured, non-judgmental guidance to help you regain self-command.
+              When masturbation turns from an occasional release into an automatic, compulsive addiction reacting to stress, loneliness, or boredom, it can drain your physical vitality, focus, and confidence. AxoMen provides India&apos;s trusted, confidential masturbation addiction treatment and habit support to help you break free and regain complete self-command.
             </p>
 
             {/* CTA Group */}
@@ -280,7 +298,7 @@ export default function MasturbationHabitSupportPage() {
                 Frequently Asked Questions
               </h2>
               <p className="text-2xl sm:text-3xl font-bold text-[#0a1128] tracking-tight">
-                Answers About Masturbation Habit Support
+                Answers About Masturbation Addiction Treatment &amp; Habit Support
               </p>
             </div>
 

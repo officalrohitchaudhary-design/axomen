@@ -6,11 +6,36 @@ import HowAxoMenJourneyWorksSection from "@/components/HowAxoMenJourneyWorksSect
 import IndividualFAQSection from "@/components/IndividualFAQSection";
 
 export const metadata: Metadata = {
-  title: "Individual 1-on-1 Recovery Sessions | AxoMen",
+  title: "Online Sex Counselling & Male Habit Recovery in India | AxoMen",
   description:
-    "Personalized 1-on-1 recovery education sessions for men 18+. 100% confidential, science-backed guidance to overcome unwanted porn and masturbation habits.",
+    "Confidential online sex counselling for male sexual problems, compulsive masturbation, and porn habits. 1-on-1 private recovery guidance. First session free.",
+  keywords: [
+    "Online Sex Counselling",
+    "online sex counselling India",
+    "online sex counselling male sexual problem",
+    "male sexual problem counselling",
+    "Online Masturbation Counselling",
+    "Online Porn Counselling",
+    "How to Stop Masturbation Addiction",
+    "men's sexual health consultation",
+  ],
   alternates: {
     canonical: "https://axomen.com/individual",
+  },
+  openGraph: {
+    title: "Online Sex Counselling & Male Habit Recovery | AxoMen",
+    description:
+      "Private 1-on-1 recovery education sessions for men dealing with unwanted sexual habits. Get your first session free.",
+    url: "https://axomen.com/individual",
+    type: "website",
+    images: [
+      {
+        url: "/image/axomen-logo.png",
+        width: 1200,
+        height: 630,
+        alt: "AxoMen Online Sex Counselling for Men",
+      },
+    ],
   },
 };
 

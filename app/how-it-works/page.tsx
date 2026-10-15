@@ -7,6 +7,8 @@ export const metadata: Metadata = {
   description:
     "Discover AxoMen's original 4-step recovery pathway: 1) Book a Private Session, 2) Understand Your Root Cause, 3) Get Your Personalised Plan, 4) Learn, Practise & Improve. 5 Indian languages supported.",
   keywords: [
+    "Masturbation Addiction Treatment in India",
+    "masturbation addiction treatment process",
     "how AxoMen works",
     "4 step recovery process India",
     "men's sexual health consultation process",

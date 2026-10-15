@@ -1,0 +1,493 @@
+{
+  "nav": {
+    "home": "Home",
+    "books": "Books",
+    "podcast": "Podcast",
+    "stories": "Real Stories",
+    "blog": "Blog",
+    "learnAboutPorn": "Learn About Porn",
+    "about": "About",
+    "contact": "Contact",
+    "freeSession": "Free Session",
+    "exercises": "Exercises",
+    "joinMovement": "Join the Movement",
+    "joinNow": "Join Now",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "logoAriaLabel": "AxoMen Home",
+    "mainNavLabel": "Main navigation",
+    "mobileNavLabel": "Mobile navigation",
+    "navigationMenuLabel": "Navigation menu"
+  },
+  "common": {
+    "language": "Language",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "watchNow": "Watch Now",
+    "listenNow": "Listen Now",
+    "joinNow": "Join Now",
+    "close": "Close",
+    "skip": "Skip",
+    "selectLanguage": "Select language",
+    "viewAll": "View All"
+  },
+  "languageTour": {
+    "stepLabel": "Step 1 of 1",
+    "title": "Choose Your Language",
+    "descriptionDesktop": "Click the button above and pick your local language — read everything on this platform in your mother tongue.",
+    "descriptionMobile": "Tap the language button at the top-right to read in your local language.",
+    "clickAbove": "Click above to choose",
+    "tapAbove": "Tap the language button above"
+  },
+  "hero": {
+    "joinNow": "Book Session",
+    "pornFreeIndia": "Am I an Addict?",
+    "headlinePart1": "Want to quit porn habit?",
+    "headlinePart2": "We can help you.",
+    "treatmentPrompt": "Battling addiction & ready for help?",
+    "treatmentButton": "Get Free Session Now"
+  },
+  "issuesWeHelpWith": {
+    "title": "Issues We Help With",
+    "subtitle": "Confidential, 1-on-1 personalized guidance to overcome compulsive habits and regain control.",
+    "pornTitle": "Porn addiction",
+    "pornSub": "Break the compulsive urge to watch adult content, clear brain fog, and regain healthy focus.",
+    "pornBadge": "Porn Habit",
+    "masturbationTitle": "Masturbation addiction",
+    "masturbationSub": "Overcome frequent and compulsive habits, restore physical energy, and regain emotional control.",
+    "masturbationBadge": "Compulsive Urge",
+    "bothTitle": "Porn + Masturbation addiction",
+    "bothSub": "Dismantle the deeply wired habit loop of porn and masturbation combined with structured behavioral rewiring.",
+    "bothBadge": "Combined Habit Loop",
+    "getStarted": "Get started"
+  },
+  "whatWeOffer": {
+    "title": "What Sessions We Offer",
+    "individualTitle": "Individual",
+    "individualSub": "Individualized support from a recovery educator for ages 18+",
+    "couplesTitle": "Couples",
+    "couplesSub": "Relationship support to improve your connection with your partner",
+    "teensTitle": "Teen",
+    "teensSub": "Specialized support designed for youth ages 13-17",
+    "getStarted": "Get started"
+  },
+  "habitLoop": {
+    "badge": "The Habit Loop",
+    "titlePart1": "Porn + Masturbation",
+    "titlePart2": "= ?",
+    "question": "Do you watch porn only when you masturbate?",
+    "questionPrompt": "Select your honest experience to see what happens inside your brain:",
+    "yesLabel": "Yes",
+    "noLabel": "No",
+    "ifYouChoseYes": "If you chose Yes",
+    "ifYouChoseNo": "If you chose No",
+    "yesThinkLabel": "You might think:",
+    "yesQuote": "“I only watch porn when I masturbate.”",
+    "yesExplanation": "But if you repeat this again and again, your brain can start connecting porn and masturbation together as one habit.",
+    "patternHeading": "Over time, the pattern can become:",
+    "step1": "Urge to watch porn",
+    "step2": "Masturbation",
+    "step3": "Pleasure or Orgasm",
+    "step4": "Guilt & Regret",
+    "step5": "Few days later, repeat again",
+    "yesDilemmaLabel": "And then you may start feeling:",
+    "yesDilemma": "“I try to stop this habit, but I fail every time. I feel like I can never stop, and I feel so bad about myself.”",
+    "yesWarning": "You promise yourself it was the last time, but when the urge strikes again, you give in and feel terrible. If this sounds like you, don't ignore it. This is the right time to understand your habit and start changing it.",
+    "noThinkLabel": "You might think:",
+    "noQuote": "“I don't watch porn every time, so I'm in control.”",
+    "noExplanation": "Even if they aren't paired together every single time, watching porn primes your brain's dopamine reward circuitry for artificial highs.",
+    "noPatternHeading": "The gradual progression:",
+    "noStep1": "Boredom or Stress",
+    "noStep2": "Porn Browsing",
+    "noStep3": "Pleasure / Rush",
+    "noStep4": "Emptiness & Guilt",
+    "noStep5": "Few days later, repeat again",
+    "noDilemmaLabel": "And then you may start feeling:",
+    "noDilemma": "“I told myself I can quit whenever I want, but I keep going back to it anyway.”",
+    "noWarning": "Separating the two gives a false sense of control while the urge quietly deepens. Stepping away from porn early is the smartest choice to protect your focus and mental peace.",
+    "ctaHeading": "You only need to take the first step.",
+    "ctaSubheading": "We'll help you understand the rest.",
+    "ctaCheckAddiction": "Free Check Addiction Level"
+  },
+  "quoteSection": {
+    "badge": "A Moment of Truth",
+    "quotePart1": "If you see that porn and masturbation are affecting your life, that is your sign to stop —",
+    "quoteHighlight": "otherwise, you waste the one life you have.",
+    "author": "Andrew Adleman",
+    "authorSub": "Author & Recovery Advocate"
+  },
+  "pornDrug": {
+    "badge": "The Hard Truth",
+    "equationLeft": "Porn",
+    "equationRight": "New Drug",
+    "description": "Same dopamine spike as cocaine. Same addiction loop as heroin. Silently wrecking millions of young Indians — one click at a time.",
+    "brainLabel": "Brain",
+    "brainImpact": "Dopamine crashes. Your brain stops feeling pleasure from real life.",
+    "brainStat": "↓ 30% receptors",
+    "studiesLabel": "Studies",
+    "studiesImpact": "You can't sit still for 10 minutes. Marks fall. Dreams shrink.",
+    "studiesStat": "↓ 40% focus",
+    "careerLabel": "Career",
+    "careerImpact": "Ambition dies quietly. Jobs, goals, and growth stop mattering.",
+    "careerStat": "↓ 50% drive",
+    "relationshipLabel": "Relationship",
+    "relationshipImpact": "Real love feels dull. You push people away without knowing why.",
+    "relationshipStat": "↓ 60% intimacy",
+    "futureLabel": "Your Future",
+    "futureImpact": "Every hour stolen is a version of you that never gets built.",
+    "futureStat": "↑ 3× anxiety",
+    "missionLabel": "Our Mission",
+    "missionHeading": "Aware Young Indians",
+    "missionHighlight": "About Porn.",
+    "shareButton": "Share With Your Friends",
+    "shareNote": "Your sharing is a big help to scale this awareness in India — a small favour."
+  },
+  "statCta": {
+    "heading": "The Porn Problem in",
+    "headingHighlight": "India",
+    "subtitleIntro": "It's",
+    "subtitleBigger": "bigger",
+    "subtitleGrowing": "growing",
+    "subtitleAffecting": "affecting",
+    "subtitleSuffix": "our youth.",
+    "stat1Label": "Visitors to top adult sites",
+    "stat1Sub": "in India every month.",
+    "stat1Tag": "Monthly Unique Visitors",
+    "stat2Label": "India ranks globally",
+    "stat2Sub": "in porn consumption.",
+    "stat2Tag": "Global Consumption Rank"
+  },
+  "books": {
+    "heading": "Our",
+    "headingHighlight": "Books",
+    "viewAll": "View All",
+    "viewMore": "View More Books"
+  },
+  "podcast": {
+    "heading": "Our",
+    "headingHighlight": "Podcasts",
+    "subtitle": "Watch on YouTube",
+    "viewAll": "View All"
+  },
+  "events": {
+    "eyebrow": "Upcoming",
+    "heading": "Our",
+    "headingHighlight": "Events",
+    "viewAll": "View All",
+    "event1Title": "Awareness Workshop — Delhi",
+    "event1Location": "New Delhi, India",
+    "event1Type": "Workshop",
+    "event2Title": "Youth Rally — Mumbai",
+    "event2Location": "Mumbai, Maharashtra",
+    "event2Type": "Rally",
+    "event3Title": "College Talk — Bengaluru",
+    "event3Location": "Bengaluru, Karnataka",
+    "event3Type": "Talk",
+    "event4Title": "Freedom Camp — Pune",
+    "event4Location": "Pune, Maharashtra",
+    "event4Type": "Camp",
+    "event5Title": "Online Webinar — All India",
+    "event5Location": "Online · Zoom",
+    "event5Type": "Webinar",
+    "event6Title": "Break Free Summit — Chennai",
+    "event6Location": "Chennai, Tamil Nadu",
+    "event6Type": "Summit"
+  },
+  "homeBlogs": {
+    "eyebrow": "LATEST ARTICLES",
+    "heading": "Our",
+    "headingHighlight": "Blog Insights",
+    "viewAll": "View All",
+    "readTime": "{minutes} min read"
+  },
+  "memberPlatform": {
+    "headingHighlight1": "Thousands",
+    "headingMiddle": "of Young Indians Have",
+    "headingHighlight2": "Joined US",
+    "cta": "Join Free — Now Your Turn"
+  },
+  "aboutPage": {
+    "hero": {
+      "eyebrow": "Our Story",
+      "titlePart1": "We started because",
+      "titlePart2": "nobody else did.",
+      "subtitle": "AxoMen is India's dedicated men's sexual health platform — providing confidential, human-guided support for unwanted porn use, compulsive masturbation, and sexual urges."
+    },
+    "pullQuote": {
+      "text": "“The lockdown didn't create the problem — it just made it impossible to ignore.”",
+      "author": "— AxoMen Founding Team"
+    },
+    "journey": {
+      "eyebrow": "Our Journey",
+      "timeline": {
+        "2019": {
+          "year": "2019",
+          "label": "The Realisation",
+          "content": "Long before the lockdowns, a few of us — students, young professionals — were quietly watching something disturbing unfold in our circles. Friends who were smart, capable, full of potential were slowly withdrawing. Energy gone. Confidence shattered. Relationships struggling. The common thread? Hours lost to porn every single day. Nobody was talking about it. Nobody had a name for it. We did."
+        },
+        "2020": {
+          "year": "2020",
+          "label": "The Breaking Point",
+          "content": "Then COVID-19 arrived. India locked down. Overnight, millions of young men — students, college boys, working professionals — were stuck at home with unlimited free time, a smartphone, and zero accountability. Porn site traffic in India didn't just grow. It exploded. One site alone saw 228 million Indian visits a month. The problem that was already spreading quietly now had rocket fuel. We knew we couldn't stay silent anymore."
+        },
+        "2021": {
+          "year": "2021",
+          "label": "The Movement Begins",
+          "content": "AxoMen was born to provide men with honest, confidential support for sexual health and compulsive habit loops. Science-backed frameworks, real recovery stories, dopamine rewiring guidance. No shame, no lectures — just practical help for men who want to regain control."
+        },
+        "today": {
+          "year": "Today",
+          "label": "Still Growing",
+          "content": "We are India's dedicated men's sexual health platform for porn and masturbation habit recovery. Over 1,000 men have received guidance through our 1-on-1 confidential sessions and recovery frameworks."
+        }
+      }
+    },
+    "stats": {
+      "stat1Num": "228M",
+      "stat1Label": "Indians visit porn sites monthly",
+      "stat2Num": "13–25",
+      "stat2Label": "Age group most affected in India",
+      "stat3Num": "#7",
+      "stat3Label": "Porn site ranked in India's top websites"
+    },
+    "mission": {
+      "title": "What we stand for",
+      "value1Title": "No Shame",
+      "value1Body": "This is a health issue, not a moral failure. We treat it like one.",
+      "value2Title": "Real Science",
+      "value2Body": "Brain science, dopamine research, peer-reviewed recovery methods — not myths.",
+      "value3Title": "For India",
+      "value3Body": "Built for the Indian context — our culture, our language, our pressures."
+    },
+    "bottomCta": {
+      "titlePart1": "You don't have to",
+      "titlePart2": "fight this alone.",
+      "subtitle": "Thousands of young Indians have already started their journey with us. Start yours today — free, private, judgement-free.",
+      "button": "Start Reading"
+    }
+  },
+  "booksPage": {
+    "allBooks": "All Books",
+    "booksAvailable": "{count} books available",
+    "bestsellersFirst": "Bestsellers first",
+    "ctaTitle": "Not sure which book to",
+    "ctaHighlight": "start with?",
+    "ctaSubtitle": "Take our free 2-minute quiz and we'll recommend the perfect book for your recovery journey.",
+    "ctaButton": "Find My Book"
+  },
+  "bookDetailPage": {
+    "notFound": "Book not found",
+    "backToBooks": "← Back to Books",
+    "kindleEdition": "Kindle Edition",
+    "paperback": "Paperback",
+    "bookPdf": "Book Pdf",
+    "orToBuy": "or {price} to buy",
+    "inclusiveTaxes": "(inclusive of all taxes)",
+    "downloadNow": "Download Now — ₹{price}",
+    "buyNow": "Buy Now — ₹{price}",
+    "inStock": "In Stock",
+    "deliveryInfo": "· Free delivery · Ships in 24 hrs",
+    "share": "Share:",
+    "whatYoullLearn": "What You'll Learn",
+    "aboutAuthor": "About the Author",
+    "youMightLike": "You Might Also Like",
+    "viewAll": "View All →",
+    "specs": {
+      "format": "Format",
+      "pages": "Pages",
+      "language": "Language",
+      "publication": "Publication",
+      "year": "Year",
+      "country": "Country"
+    }
+  },
+  "podcastPage": {
+    "watchLearn": "Watch & Learn",
+    "title": "Podcast"
+  },
+  "storiesPage": {
+    "eyebrow": "Young Indians · Breaking Free",
+    "titleMain": "REAL",
+    "titleHighlight": "STORIES",
+    "subtext": "Young Indian men who broke free — in their own words.",
+    "ctaTitle": "Your story starts",
+    "ctaHighlight": "today.",
+    "ctaButton": "Join the Platform — Free",
+    "storyLabels": {
+      "recovered": "Recovered in 90 Days",
+      "yearsFree": "{years} Years Free",
+      "savedRelationship": "Saved My Relationship",
+      "careerSaved": "Career Saved",
+      "beatDepression": "Beat Depression",
+      "backOnTrack": "Back on Track",
+      "socialAnxietyGone": "Social Anxiety Gone",
+      "healthRestored": "Health Restored",
+      "familyRebuilt": "Family Bond Rebuilt"
+    },
+    "storiesContent": {
+      "rahul": "I was failing two subjects and couldn't focus for even 10 minutes. After joining AxoMen, I got a 90-day roadmap that actually made sense. Today I cleared my backlogs and got a campus placement.",
+      "arjun": "I couldn't look people in the eye. I thought it was just shyness. The platform showed me exactly why my confidence was gone and gave me daily check-ins to rebuild it. I'm a different person now.",
+      "vikram": "My girlfriend was about to leave me. I didn't understand why I was emotionally numb. AxoMen's community made me realise the root cause. Six months later, my relationship is stronger than ever.",
+      "saurabh": "I was sleeping 4 hours, watching content all night, and bombing every interview. The accountability system here forced me to fix my sleep and routine. I landed my first job offer within four months.",
+      "karthik": "I was deep in depression for almost a year and had no idea porn was part of the problem. The science on this platform was the first thing that made everything click. I haven't relapsed in 8 months.",
+      "rohit": "I dropped out of college in my second year because I couldn't function. I found AxoMen and went through the free recovery guide. I re-enrolled this year and I'm actually enjoying studies again.",
+      "ankit": "I was terrified of talking to anyone in class. I thought I was just introverted. The community here had hundreds of guys like me. Knowing I wasn't alone changed everything. I joined my college fest committee last month.",
+      "dev": "I lost a dream job at 22 because I was exhausted and unfocused all the time. I hit rock bottom and found this platform. Three years later I'm clean, I have a great job, and I mentor others here.",
+      "nikhil": "The physical symptoms were scaring me — low energy, brain fog, zero motivation. Doctors found nothing wrong. AxoMen was the first place that connected all the dots. I feel 20 again — because I am 20.",
+      "prashant": "I was hiding in my room all day and my parents thought something was deeply wrong. They were right. The AxoMen guide helped me have an honest conversation with my father. That talk changed my life."
+    }
+  },
+  "contactPage": {
+    "eyebrow": "Get in touch",
+    "title": "Talk to us.",
+    "subtitle": "We read every message. No judgment, no spam.",
+    "emailLabel": "Your Email",
+    "messageLabel": "Message",
+    "emailPlaceholder": "you@example.com",
+    "messagePlaceholder": "What's on your mind?",
+    "sending": "Sending…",
+    "sendMessage": "Send Message",
+    "successTitle": "Message received!",
+    "successText": "We'll get back to you at {email} within 24 hours.",
+    "sendAnother": "Send another message",
+    "orEmailDirect": "Or email us directly"
+  },
+  "joinPage": {
+    "eyebrow": "AxoMen",
+    "titlePart1": "Become a",
+    "titlePart2": "Member.",
+    "subtitle": "Join thousands of young Indians on the journey to a better life. Free. Private. Judgement-free.",
+    "trustLabels": {
+      "private": "100% Private",
+      "noJudgment": "No Judgment",
+      "members": "Thousands of Members"
+    },
+    "step1": {
+      "eyebrow": "Step 1 of 3",
+      "title": "Who are you?",
+      "subtitle": "Select your gender to get started.",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "step2": {
+      "eyebrow": "Step 2 of 3",
+      "title": "About you",
+      "subtitle": "Just a couple of details — we keep everything private.",
+      "nameLabel": "Your Name",
+      "namePlaceholder": "e.g. Rahul",
+      "ageLabel": "Age",
+      "ageOptional": "Optional",
+      "agePlaceholder": "e.g. 21",
+      "continueButton": "Continue",
+      "goBack": "Go back"
+    },
+    "step3": {
+      "eyebrow": "Step 3 of 3",
+      "title": "What describes you?",
+      "subtitle": "Select your current status.",
+      "professions": {
+        "student": "Student",
+        "employed": "Employed",
+        "unemployed": "Seeking Work",
+        "homemaker": "Homemaker",
+        "freelancer": "Freelancer",
+        "other": "Other"
+      },
+      "submitButton": "Become a Member",
+      "joining": "Joining…",
+      "goBack": "Go back"
+    },
+    "success": {
+      "eyebrow": "Welcome to the family",
+      "titlePart1": "Congrats,",
+      "subtitle": "You're now an official member of AxoMen — the first step to reclaiming self-command.",
+      "memberIdLabel": "Your Member ID",
+      "copy": "Copy",
+      "copied": "Done",
+      "ageLabel": "{age} yrs",
+      "button": "Start Your Journey",
+      "footer": "No streaks. No judgment. Just growth."
+    }
+  },
+  "blogListPage": {
+    "featured": "Featured",
+    "title": "New articles, every week.",
+    "subtitle": "Science-based recovery insights delivered to your inbox. No spam, ever.",
+    "button": "Get the App — It's Free"
+  },
+  "topBanner": {
+    "movement": "Join the Movement",
+    "start": "Start",
+    "journeyMobile": "Porn-Free Today",
+    "journeyDesktop": "Your Porn-Free Journey Today",
+    "joinMobile": "Join",
+    "joinDesktop": "Become a Member"
+  },
+  "bookCTASection": {
+    "headlinePart1": "Read 25–40 Pages.",
+    "headlinePart2": "Understand Porn.",
+    "headlinePart3": "Quit By Yourself.",
+    "subtitle": "Our short-form book explains exactly what porn does to your brain — and the simple steps to break free. No fluff. No shame. Just clarity in under an hour.",
+    "tags": {
+      "pages": "25–40 Pages",
+      "science": "Science-Backed",
+      "languages": "Hindi + English"
+    }
+  },
+  "addictionPoll": {
+    "headingPart1": "Are You",
+    "headingHighlight": "Addicted",
+    "headingPart2": "To Porn?",
+    "counterLabel": "Total Count",
+    "counterSub": "Indians raised their hand",
+    "subtitle": "Thousands of Indians are being honest with themselves. Are you?",
+    "button": "Yes, I Am Addicted",
+    "voting": "Counting…",
+    "votedTitle": "You've been counted. ✓",
+    "votedAlready": "Already counted. ✓",
+    "votedSub": "Honesty is the first step to recovery."
+  },
+  "footer": {
+    "tagline": "Quit Porn. Enjoy Real Life.",
+    "joinMovement": "Join The Movement.",
+    "pornFreeIndia": "Porn Free India.",
+    "subtext": "Thousands of young Indians already Quit Porn. Your turn starts today.",
+    "becomeMember": "Become a Member — Free",
+    "rights": "© {year} AxoMen. All rights reserved."
+  },
+  "exercises": {
+    "title": "Daily Recovery Exercises",
+    "subtitle": "These simple daily exercises help you control strong urges, reduce stress, build mental focus, and stay disciplined in your everyday life.",
+    "badge": "Rewire Your Brain",
+    "breathingCircleTitle": "Urge Surfing Breathing",
+    "breathingCircleDesc": "Ride out intense cravings. This 4-4-4-4 Box Breathing exercise calms the amygdala, reduces anxiety, and restores rational thinking.",
+    "yogaBalasanaTitle": "Balasana (Child's Pose)",
+    "yogaBalasanaDesc": "Calms the nervous system, reduces stress and anxiety, and helps during strong urges.",
+    "yogaCobraTitle": "Bhujangasana (Cobra Pose)",
+    "yogaCobraDesc": "Improves energy levels, reduces mental fatigue, and encourages better posture and confidence.",
+    "yogaTreeTitle": "Vrikshasana (Tree Pose)",
+    "yogaTreeDesc": "Improves concentration, builds mental discipline, and trains the mind to stay focused.",
+    "anulomVilomTitle": "Anulom Vilom",
+    "anulomVilomDesc": "Calms racing thoughts, reduces stress-driven urges, and improves emotional control.",
+    "bhramariTitle": "Bhramari Pranayama",
+    "bhramariDesc": "Quickly relaxes the mind, reduces anxiety and restlessness, and helps before sleep.",
+    "groundingTitle": "5-4-3-2-1 Grounding Method",
+    "groundingDesc": "Interrupt automated behavior by reconnecting with your 5 physical senses. Instantly pulls you out of a digital craving loop.",
+    "startBtn": "Start Exercise",
+    "startYogaBtn": "Start Practice",
+    "comingSoon": "Coming Soon",
+    "locked": "Locked",
+    "selectRounds": "Select Duration",
+    "selectHoldTime": "Select Practice Duration",
+    "durationMins": "{mins} Minutes",
+    "beginSession": "Begin Session",
+    "cancel": "Cancel",
+    "breatheIn": "Breathe In",
+    "hold": "Hold",
+    "breatheOut": "Breathe Out",
+    "completedTitle": "Urge Conquered! ✓",
+    "completedSub": "Great job. Your brain just built a stronger connection. Stand tall and return to real life.",
+    "finish": "Finish"
+  }
+}

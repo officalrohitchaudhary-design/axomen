@@ -61,7 +61,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* ── Marquee ticker ── */
+/* ── Marquee tickerr ── */
 @keyframes marquee-rtl {
   from {
     transform: translateX(0);

@@ -235,11 +235,12 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: "/image/favicon/favicon.ico", sizes: "any", type: "image/x-icon" },
+      { url: "/favicon.ico", sizes: "any" },
       { url: "/image/favicon/favicon.svg", sizes: "any", type: "image/svg+xml" },
       { url: "/image/favicon/favicon-96x96.png", sizes: "96x96", type: "image/png" },
+      { url: "/image/favicon/android-chrome-192x192.png", sizes: "192x192", type: "image/png" },
     ],
-    shortcut: "/image/favicon/favicon.ico",
+    shortcut: "/favicon.ico",
     apple: [{ url: "/image/favicon/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
   },
   category: "health",
